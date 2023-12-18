@@ -1,0 +1,12 @@
+/* Movies.css */
+
+.carousel-image {
+    width: 100%; /* Ensures the image takes up the full width of its container */
+    height: 650px; /* Maintains the aspect ratio */
+    max-height: 650px; /* Set the maximum height as needed */
+    object-fit: cover; /* Ensures the image covers the entire container */
+  }
+  
+
+  
+  
